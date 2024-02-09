@@ -1,0 +1,53 @@
+.conteiner{
+    justify-content: center;
+    align-items: center;
+ 
+   
+}
+body{
+    justify-items: center;
+    display: grid;
+    height: 500px;
+}
+.sawir{
+     border: 5px solid rgb(39, 39, 110);
+     border-radius: 50%;
+     width: 100px;
+}
+input{
+    border: 2px solid grey;
+    border-radius: 25px;
+    background: #117cb9;
+    color:rgb(0, 0, 0);
+
+
+
+
+}
+::placeholder{
+    color: rgb(255, 255, 255);
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+button{
+    background:#117cb9;
+    color: aliceblue;
+    border: 2px solid rgb(252, 214, 214); 
+    border-radius: 25px;
+    width: 30%;
+    height: 20px;
+
+}
+h2{
+    color: #117cb9;
+}
+.conteiner{
+    border: 3px solid #117cb9;
+    border-radius: 35px;
+    width: max-content;
+    padding: 30px;
+    margin: 40px;
+    
+}
